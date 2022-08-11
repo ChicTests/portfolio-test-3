@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.95063805.css",
+    "main.js": "./static/js/main.8638637e.js",
+    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "static/media/rick-and-morty.JPG": "./static/media/rick-and-morty.365172cd7233397ac22e.JPG",
+    "static/media/About-Spain (ES).svg": "./static/media/About-Spain (ES).bf48575c82cfd8e8ffc50b3423fa447d.svg",
+    "static/media/me.jpg": "./static/media/me.be5898ef8c2d4729075d.jpg",
+    "static/media/people-organizer.JPG": "./static/media/people-organizer.1e2026ba5df0b5294da2.JPG",
+    "static/media/portofolio-web.JPG": "./static/media/portofolio-web.f34154ab0b2db418b059.JPG",
+    "service-worker.js": "./service-worker.js",
+    "static/media/About-United States of America (US).svg": "./static/media/About-United States of America (US).32d9d62cb24c43d507f2b7032ab9120c.svg",
+    "index.html": "./index.html",
+    "static/media/logo.svg": "./static/media/logo.43701b73f8b0bf3d48ba6a89acc9fa30.svg",
+    "main.95063805.css.map": "./static/css/main.95063805.css.map",
+    "main.8638637e.js.map": "./static/js/main.8638637e.js.map",
+    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95063805.css",
+    "static/js/main.8638637e.js"
+  ]
+}
